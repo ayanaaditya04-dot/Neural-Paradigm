@@ -15,7 +15,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 ## Linked List
 |  |
 | ------- |
-| [0206-reverse-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0206-reverse-linked-list)  |
+| [0206-reverse-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0206-reverse-linked-list)  3 Soldier's Story|
 | [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) Fast & slow pointer|
 <!---LeetCode Topics End-->
 
