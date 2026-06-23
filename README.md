@@ -15,9 +15,5 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 ## Linked List
 |  |
 | ------- |
-| [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) |
-<!---LeetCode Topics End-->
+| [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) Fast & slow pointer|
+
