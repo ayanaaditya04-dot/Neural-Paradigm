@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // In unsorted array - Two pointer changes the index possition;
+        // Input ->  unsorted array - Two pointer (sorting )changes the index possition;
         // Hash map is the most optimal solution
         unordered_map<int, int> numMap;
         int n = nums.size();
