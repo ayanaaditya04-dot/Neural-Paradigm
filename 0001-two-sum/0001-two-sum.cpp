@@ -18,3 +18,7 @@ public:
         return {}; // No solution found
     }
 };
+
+
+Time Complexity: O(n) — You only traverse the array exactly once, and hash map lookups take O(1) on average.
+Space Complexity: O(n) — In the worst-case scenario (e.g., the matching pair is at the very end), you store n−1 elements in the map.
