@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode 
 ## Array
 |  |
 | ------- |
