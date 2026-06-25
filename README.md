@@ -11,10 +11,9 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0015-3sum](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0015-3sum) Sorting & Two Pointer  |
 | [0016-3sum-closest](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0016-3sum-closest) Sorting & Two Pointer (use abs Diffrence) |
 | [0018-4sum](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0018-4sum) Sorting & Two Pointer |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0080-remove-duplicates-from-sorted-array-ii) Writter pointer |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0167-two-sum-ii-input-array-is-sorted) Two pointer ( Input array is sorted ) |
-| [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) Two pointer (Include both neg and poss) |
 ## Linked List
 |  |
 | ------- |
