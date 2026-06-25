@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0018-4sum](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0018-4sum) Sorting & Two Pointer |
 | [0075-sort-colors](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0080-remove-duplicates-from-sorted-array-ii) Writter pointer |
+| [0088-merge-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0167-two-sum-ii-input-array-is-sorted) Two pointer ( Input array is sorted ) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) Two pointer + Sliding Window |
 | [0845-longest-mountain-in-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0845-longest-mountain-in-array) Two pointer + Sliding Window |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
 
 
