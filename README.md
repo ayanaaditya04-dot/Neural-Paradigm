@@ -18,6 +18,14 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) Two pointer + Sliding Window |
 | [0845-longest-mountain-in-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0845-longest-mountain-in-array) Two pointer + Sliding Window |
 | [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) Two pointer (Include both neg and poss) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0125-valid-palindrome) Two pointer |
+| [0151-reverse-words-in-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0151-reverse-words-in-a-string) Two pointer |
+| [0345-reverse-vowels-of-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0345-reverse-vowels-of-a-string) Two pointer |
+| [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) Two pointer |
+| [1332-remove-palindromic-subsequences](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/1332-remove-palindromic-subsequences) Two pointer |
 ## Linked List
 |  |
 | ------- |
@@ -25,26 +33,6 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0141-linked-list-cycle](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0141-linked-list-cycle) Fast & slow pointer |
 | [0206-reverse-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0206-reverse-linked-list)  3 Soldier's Story|
 | [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) Fast & slow pointer|
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0345-reverse-vowels-of-a-string) |
-| [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) |
-| [1332-remove-palindromic-subsequences](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/1332-remove-palindromic-subsequences) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0125-valid-palindrome) |
-| [0151-reverse-words-in-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0345-reverse-vowels-of-a-string) |
-| [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) |
-| [1332-remove-palindromic-subsequences](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/1332-remove-palindromic-subsequences) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
 
 
