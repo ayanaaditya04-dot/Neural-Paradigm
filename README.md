@@ -27,7 +27,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) Two pointer |
 | [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/1332-remove-palindromic-subsequences) Two pointer |
-| [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) Two pointer|
+| [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) Two pointer |
 ## Linked List
 |  |
 | ------- |
