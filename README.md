@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0018-4sum](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0018-4sum) Sorting & Two Pointer |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0080-remove-duplicates-from-sorted-array-ii) Writter pointer |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0167-two-sum-ii-input-array-is-sorted) Two pointer ( Input array is sorted ) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) Two pointer (Include both neg and poss) |
 ## Linked List
 |  |
@@ -24,11 +25,25 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 ## Two Pointers
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
 
 
