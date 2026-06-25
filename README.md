@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0392-is-subsequence](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0392-is-subsequence) Two pointer |
 | [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/1332-remove-palindromic-subsequences) Two pointer |
+| [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) Two pointer|
 ## Linked List
 |  |
 | ------- |
@@ -34,14 +35,6 @@ A collection of LeetCode questions to ace the coding interview!( untill I reach 
 | [0141-linked-list-cycle](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0141-linked-list-cycle) Fast & slow pointer |
 | [0206-reverse-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0206-reverse-linked-list)  3 Soldier's Story|
 | [0876-middle-of-the-linked-list](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0876-middle-of-the-linked-list) Fast & slow pointer|
-## Two Pointers
-|  |
-| ------- |
-| [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) |
-## Greedy
-|  |
-| ------- |
-| [0680-valid-palindrome-ii](https://github.com/ayanaaditya04-dot/Neural-Paradigm/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
 
 
